@@ -13,8 +13,8 @@
         'security/ir.model.access.csv',
         'views/stu_regi_view.xml',
         'views/teacher_view.xml',
-        'views/demo_data.xml',
-        'views/views_menu.xml'
+        'views/views_menu.xml',
+        'data/demo_data.xml'
     ],
     'application': True,
     'demo': True,
